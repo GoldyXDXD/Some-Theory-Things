@@ -1,0 +1,2 @@
+https://habr.com/ru/company/redmadrobot/blog/275515/ - Gradle: управляя зависимостями / Хабр
+https://javarush.ru/groups/posts/2126-kratkoe-znakomstvo-s-gradle - Краткое знакомство с Gradle
